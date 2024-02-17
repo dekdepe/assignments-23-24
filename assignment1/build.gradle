@@ -1,0 +1,7 @@
+application {
+    mainClass.set('assignments.assignment1.OrderGenerator')
+}
+
+run {
+    standardInput = System.in
+}

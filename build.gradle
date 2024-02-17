@@ -1,0 +1,26 @@
+subprojects {
+    apply plugin: 'java'
+    apply plugin: 'application'
+
+    repositories {
+        mavenCentral()
+    }
+
+    dependencies {
+        // https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api
+        testImplementation 'org.junit.jupiter:junit-jupiter-api:5.10.1'
+        testImplementation 'org.junit.jupiter:junit-jupiter-engine:5.10.1'
+    }
+
+    test {
+        useJUnitPlatform()
+
+        testLogging {
+            showExceptions true
+            exceptionFormat "full"
+            showCauses true
+            showStackTraces true
+            showStandardStreams true
+        }
+    }
+}
