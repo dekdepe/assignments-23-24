@@ -78,6 +78,8 @@ Jika terjadi *merge conflict*, silakan selesaikan konflik yang ada dan lanjutkan
 
 ## Atribusi
 
+Latihan Tugas Pemrograman DDP 2 Genap 2022/2023 dari repositori [Latihan Tugas Pemrograman DDP2 2022/2023 Genap][latihan-tp]  
+
 Struktur Gradle multi-proyek dan isi berkas README utama diadaptasi dari
 repositori [Tugas Pemrograman DDP2 2017/2018 Genap][repositori-2018], [Tugas Pemrograman DDP2 2019/2020 Genap][repositori-2019-2020-genap], [Tugas Pemrograman DDP2 2020/2021 Genap][repositori-2020-2021-genap], [Tugas Pemrograman DDP2 2021/2022 Genap][repositori-2021-2022-genap], dan [Tugas Pemrograman DDP2 2022/2023 Genap][repositori-2022-2023-genap]
 
