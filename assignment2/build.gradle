@@ -1,0 +1,7 @@
+application {
+    mainClass.set('main.java.assignments.assignment2.MainMenu')
+}
+
+run {
+    standardInput = System.in
+}
