@@ -40,7 +40,7 @@ javac assignments\assignment2\*.java
 java assignments.assignment2.MainMenu
 ```
 ### Pengumpulan
-Simpan pekerjaan kamu, lalu lakukan `git add`, `git commit`, dan `git push` sebagaimana dijelaskan pada dokumen *Getting Started with a Java Project* (Latihan Tugas Pemrograman). Push solusi kamu sebelum **16 Maret 2023 pukul 23.55**. Disarankan untuk push sebelum pukul 22.00 untuk mengantisipasi antrean pada GitHub Pipelines.
+Simpan pekerjaan kamu, lalu lakukan `git add`, `git commit`, dan `git push` sebagaimana dijelaskan pada dokumen *Getting Started with a Java Project* (Latihan Tugas Pemrograman). Push solusi kamu sebelum **17 Maret 2024 pukul 23.55**. Disarankan untuk push sebelum pukul 22.00 untuk mengantisipasi antrean pada GitHub Pipelines.
 
 **Catatan:** Jangan lupa untuk menambahkan asdos kamu dan dekdepe sebagai member di repositori kamu.
 
@@ -56,8 +56,8 @@ Simpan pekerjaan kamu, lalu lakukan `git add`, `git commit`, dan `git push` seba
 - [ ] Demonstrasikan program kamu ke asdos kamu.
 
 ### Penilaian
-- 10% Implementasi Class `Nota`
-- 10% Implementasi Class `Member`
+- 10% Implementasi Class `User`
+- 10% Implementasi Class `0rder`
 - 40% Fungsionalitas Keseluruhan Program
 - 5% Dokumentasi (kejelasan kode)
 - 5% Standar penulisan kode (kerapian kode)
