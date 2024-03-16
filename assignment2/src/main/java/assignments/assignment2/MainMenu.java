@@ -1,4 +1,4 @@
-package main.java.assignments.assignment2;
+package assignments.assignment2;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -53,7 +53,7 @@ public class MainMenu {
                         switch(commandAdmin){
                             case 1 -> handleTambahRestoran();
                             case 2 -> handleHapusRestoran();
-                            case 5 -> isLoggedIn = false;
+                            case 3 -> isLoggedIn = false;
                             default -> System.out.println("Perintah tidak diketahui, silakan coba kembali");
                         }
                     }

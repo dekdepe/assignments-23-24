@@ -16,22 +16,14 @@ public class OrderGenerator {
     public static void showMenu(){
         System.out.println(">>=======================================<<");
         System.out.println("|| ___                 ___             _ ||");
-<<<<<<< HEAD
-        System.out.println("||| . \\ ___  ___  ___ | __>___  ___  _| |||");
-=======
         System.err.println("||| . \\ ___  ___  ___ | __>___  ___  _| |||");
->>>>>>> 1c4490db70dc400b6455b4380a5aa39da8393ebd
         System.out.println("||| | |/ ._>| . \\/ ._>| _>/ . \\/ . \\/ . |||");
         System.out.println("|||___/\\___.|  _/\\___.|_| \\___/\\___/\\___|||");
         System.out.println("||          |_|                          ||");
         System.out.println(">>=======================================<<");
         System.out.println();
         System.out.println("Pilih menu:");
-<<<<<<< HEAD
-        System.out.println("1. Generate Order ID");
-=======
         System.err.println("1. Generate Order ID");
->>>>>>> 1c4490db70dc400b6455b4380a5aa39da8393ebd
         System.out.println("2. Generate Bill");
         System.out.println("3. Keluar");
     }
