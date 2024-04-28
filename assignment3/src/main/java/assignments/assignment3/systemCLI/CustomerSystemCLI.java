@@ -12,7 +12,7 @@ public class CustomerSystemCLI {
             case 2 -> handleCetakBill();
             case 3 -> handleLihatMenu();
             case 4 -> handleBayarBill();
-            case 5 -> handleUpdateStatusPesanan();
+            case 5 -> handleCekSaldo();
             case 6 -> {
                 return false;
             }
@@ -51,7 +51,11 @@ public class CustomerSystemCLI {
         // TODO: Implementasi method untuk handle ketika customer ingin melihat menu
     }
 
-    public void handleUpdateStatusPesanan(){
+    void handleUpdateStatusPesanan(){
         // TODO: Implementasi method untuk handle ketika customer ingin update status pesanan
+    }
+
+    void handleCekSaldo(){
+        // TODO: Implementasi method untuk handle ketika customer ingin mengecek saldo yang dimiliki
     }
 }
