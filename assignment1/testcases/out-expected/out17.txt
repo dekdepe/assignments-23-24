@@ -1,0 +1,24 @@
+>>=======================================<<
+|| ___                 ___             _ ||
+||| | |/ ._>| . \/ ._>| _>/ . \/ . \/ . |||
+|||___/\___.|  _/\___.|_| \___/\___/\___|||
+||          |_|                          ||
+>>=======================================<<
+
+Pilih menu:
+2. Generate Bill
+3. Keluar
+--------------------------------------------
+Pilihan Menu: 
+Order ID: Lokasi Pengiriman: Bill:
+Order ID: AGOO1234567815FT
+Tanggal Pemesanan: 12/34/5678
+Lokasi Pengiriman: B
+Biaya Ongkos Kirim: Rp 60.000
+
+--------------------------------------------
+Pilih menu:
+2. Generate Bill
+3. Keluar
+--------------------------------------------
+Pilihan Menu: 

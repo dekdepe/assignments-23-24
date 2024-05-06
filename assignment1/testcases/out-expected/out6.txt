@@ -1,0 +1,21 @@
+>>=======================================<<
+|| ___                 ___             _ ||
+||| | |/ ._>| . \/ ._>| _>/ . \/ . \/ . |||
+|||___/\___.|  _/\___.|_| \___/\___/\___|||
+||          |_|                          ||
+>>=======================================<<
+
+Pilih menu:
+2. Generate Bill
+3. Keluar
+--------------------------------------------
+Pilihan Menu: 
+Nama Restoran: Tanggal Pemesanan: No. Telpon: Harap masukkan nomor telepon dalam bentuk bilangan bulat positif.
+
+Nama Restoran: Tanggal Pemesanan: No. Telpon: Order ID AGOO1234567815FT diterima!
+--------------------------------------------
+Pilih menu:
+2. Generate Bill
+3. Keluar
+--------------------------------------------
+Pilihan Menu: 

@@ -1,0 +1,23 @@
+plugins {
+  id 'application'
+  id 'org.openjfx.javafxplugin' version '0.1.0'
+}
+
+application {
+    mainClass.set('assignments.assignment4.MainApp')
+}
+
+run {
+    standardInput = System.in
+}
+
+dependencies {
+    implementation project(':assignment1')
+    implementation project(':assignment2')
+    implementation project(':assignment3')
+}
+
+javafx {
+    version = "21"
+    modules = [ 'javafx.controls' ]
+}

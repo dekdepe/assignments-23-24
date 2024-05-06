@@ -1,0 +1,23 @@
+>>=======================================<<
+|| ___                 ___             _ ||
+||| | |/ ._>| . \/ ._>| _>/ . \/ . \/ . |||
+|||___/\___.|  _/\___.|_| \___/\___/\___|||
+||          |_|                          ||
+>>=======================================<<
+
+Pilih menu:
+2. Generate Bill
+3. Keluar
+--------------------------------------------
+Pilihan Menu: 
+Nama Restoran: Tanggal Pemesanan: Tanggal Pemesanan dalam format DD/MM/YYYY!
+
+Nama Restoran: Tanggal Pemesanan: Tanggal Pemesanan dalam format DD/MM/YYYY!
+
+Nama Restoran: Tanggal Pemesanan: No. Telpon: Order ID 1K4N1010100023AA diterima!
+--------------------------------------------
+Pilih menu:
+2. Generate Bill
+3. Keluar
+--------------------------------------------
+Pilihan Menu: 

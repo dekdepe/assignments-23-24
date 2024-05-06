@@ -16,7 +16,7 @@ Tugas Pemrograman ini mencakup materi berikut:
 6. [Penilaian](#penilaian)
 
 ### Dokumen Soal
-Dokumen soal dapat diakses melalui [link ini](https://docs.google.com/document/d/1XumCjgGmYzGkK85ZnL9gJs16HM-QBIoEE8tn-95mSMI/edit?usp=sharing).
+Dokumen soal dapat diakses melalui [link ini](#https://docs.google.com/document/d/1XumCjgGmYzGkK85ZnL9gJs16HM-QBIoEE8tn-95mSMI/edit?usp=sharing).
 
 ### Persiapan
 Silakan ikuti persiapan yang ada pada berkas `README.md` di root repositori ini.

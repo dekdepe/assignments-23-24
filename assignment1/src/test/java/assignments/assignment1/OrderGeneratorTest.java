@@ -17,6 +17,6 @@ public class OrderGeneratorTest {
                 "Lokasi Pengiriman: S\n" + //
                 "Biaya Ongkos Kirim: Rp 40.000\n" + //
                 "";
-        assertEquals(solution, OrderGenerator.generateBill("HOLY1802202453C3", "s"));
+        assertEquals(solution, OrderGenerator.generateBill("HOLY1802202453C3", "S"));
     }
 }
